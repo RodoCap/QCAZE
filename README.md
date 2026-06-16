@@ -1,5 +1,9 @@
 # QCAZE - Sistema de Gestión de Préstamos
 
+![QCAZE](img/screenshot.png)
+
+Sistema desarrollado en Python y Supabase para la gestión de préstamos.
+
 ## Descripción
 
 QCAZE es un sistema desarrollado en Python para la gestión de préstamos personales. El software permite registrar clientes, calcular automáticamente el interés quincenal, almacenar la información en una base de datos Supabase y administrar el estado de cada préstamo.
